@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../HTML & CSS/15-YT_Website"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "15-YT_Website"
+  }
+}
